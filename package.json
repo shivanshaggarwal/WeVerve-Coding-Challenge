@@ -1,0 +1,16 @@
+{
+  "name": "weverve",
+  "version": "1.0.0",
+  "description": "Weverve-Coding-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
